@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/ivaniuss/Documents/backend/docker-rust-postgres/target/debug/build/typenum-21941ff3f3fccd3a/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/ivaniuss/Documents/backend/docker-rust-postgres/target/debug/build/typenum-21941ff3f3fccd3a/out/op.rs
